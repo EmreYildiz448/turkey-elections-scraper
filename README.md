@@ -183,7 +183,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [Ministry of Interior of the Republic of Türkiye](https://www.e-icisleri.gov.tr/Anasayfa/MulkiIdariBolumleri.aspx)
 
-[Ministry of Industry and Technology of the Republic of Türkiye](https://www.sanayi.gov.tr/assets/pdf/birimler/2017-il-sege.pdf) (https://www.sanayi.gov.tr/assets/pdf/birimler/2022-ilce-sege.pdf)
+[Ministry of Industry and Technology of the Republic of Türkiye SEGE 2017](https://www.sanayi.gov.tr/assets/pdf/birimler/2017-il-sege.pdf) 
+
+[Ministry of Industry and Technology of the Republic of Türkiye SEGE 2022](https://www.sanayi.gov.tr/assets/pdf/birimler/2022-ilce-sege.pdf)
 
 [Wikipedia](https://tr.wikipedia.org/wiki/2024_Türkiye_yerel_seçimleri)
 
