@@ -87,12 +87,12 @@ These directories hold the scraped and processed election datasets in CSV/Excel 
 
 ```
 turkey-elections-scraper            # Local election results are organized first by election year.
-    +2019_verisi                    # Each year folder contains four election type directories: Municipal (mayor), municipal council, metropolitan mayor and provincial council.
-    |   +belediye_baskanligi        # Within each election type directory are five numbered subfolders (1-5) that hold per-province results ordered by official plate (license) number and alphabetical.
-    |   |   +1                      # For all election type directories, subfolder 1 also contains the aggregated nationwide results for that election type.
-    |   |   +2
-    |   |   +3
-    |   |   +4
+    +2019_verisi                    # Each year folder contains four election type directories: 
+    |   +belediye_baskanligi        Municipal (mayor), municipal council, metropolitan mayor and provincial council.
+    |   |   +1                      # Within each election type directory are five numbered subfolders (1-5) 
+    |   |   +2                      that hold per-province results ordered by official plate (license) number and alphabetical.
+    |   |   +3                      # For all election type directories, subfolder 
+    |   |   +4                      1 also contains the aggregated nationwide results for that election type.
     |   |   \5
     |   +belediye_meclisi           
     |   |   +1                      
