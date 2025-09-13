@@ -10,7 +10,6 @@ The scraper downloads official PDF results, extracts structured tables, and save
 - **Concurrent processing** - uses `concurrent.futures` to parallelize province/county scrapes.
 - **Automatic ChromeDriver management** - no manual driver downloads required.
 - **Structured outputs** - creates organized folders of cleaned CSV/Excel data ready for analytics or visualization.
-- (Optional) **driver logs** controlled by the `SCRAPER_DRIVER_LOGS` environment variable. (WIP)
 
 ---
 
