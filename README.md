@@ -35,10 +35,6 @@ turkey-elections-scraper
 * Google Chrome (latest stable release)
 * Python dependencies listed in requirements.txt
 
-Install Python dependencies:
-```bash
-pip install -r requirements.txt
-```
 ---
 ## Installation & Setup
 
